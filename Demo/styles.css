@@ -1,0 +1,7 @@
+button {
+    border-radius: 10pt;
+    color: aliceblue;
+    background-color: blue;
+    padding: 15pt 20pt;
+    font-family: 'Courier New', Courier, monospace;
+}
